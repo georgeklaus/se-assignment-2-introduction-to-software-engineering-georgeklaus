@@ -6,28 +6,3 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:  Software engineering is a branch of engineering that involves the systematic application of engineering approaches to the development of software. Its goal is to produce high-quality software that is reliable, efficient, maintainable, and meets user requirements.
-
-What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):Software engineering is a branch of engineering that involves the systematic application of engineering approaches to the development of software. Its goal is to produce high-quality software that is reliable, efficient, maintainable, and meets user requirements. 
-
- 
-
-Traditional programming is the act of writing code to create software programs. It involves translating problem requirements into executable computer instructions using a programming language. 
-
-Software Engineering uses a systematic, disciplined approach with formal methodologies and processes to manage the entire lifecycle of software development, but traditional programming focuses primarily on the coding aspect, often without a structured approach to the broader software development lifecycle (Aitken & Ilango, 2013). 
-
-Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
-(The Agile model is characterized by its iterative and incremental approach to software development, emphasizing flexibility and adaptability. In Agile, projects are divided into continuous cycles of planning, executing, and evaluating, typically managed through frameworks like Scrum or Kanban. This model fosters frequent collaboration with customers and stakeholders, allowing for quick iterations and feedback-driven improvements. Documentation in Agile focuses more on working software over comprehensive documentation, with an emphasis on delivering value to the customer with each iteration. On the other hand, the Waterfall model follows a more sequential approach, with distinct phases such as Planning, Requirements, Design, Implementation, Testing, Deployment, and Maintenance. Each phase must be completed before moving to the next, resulting in a more rigid structure where changes are difficult to implement once a phase is completed. Waterfall places greater emphasis on thorough documentation at each stage, aiming to capture requirements and design decisions upfront. While Agile promotes early detection and mitigation of risks through continuous feedback, risks in Waterfall may not be apparent until later phases, potentially leading to costly changes (Balaji & Murugaiyan, 2012). ) 
-
-Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Requirements Engineering:
-
-
-
-What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
-Submission Guidelines:
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
