@@ -6,7 +6,7 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering:  Software engineering is a branch of engineering that involves the systematic application of engineering approaches to the development of software. Its goal is to produce high-quality software that is reliable, efficient, maintainable, and meets user requirements.
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
