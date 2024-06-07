@@ -9,7 +9,13 @@ Questions:
 Define Software Engineering:  Software engineering is a branch of engineering that involves the systematic application of engineering approaches to the development of software. Its goal is to produce high-quality software that is reliable, efficient, maintainable, and meets user requirements.
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Software Development Life Cycle (SDLC):Software engineering is a branch of engineering that involves the systematic application of engineering approaches to the development of software. Its goal is to produce high-quality software that is reliable, efficient, maintainable, and meets user requirements. 
+
+ 
+
+Traditional programming is the act of writing code to create software programs. It involves translating problem requirements into executable computer instructions using a programming language. 
+
+Software Engineering uses a systematic, disciplined approach with formal methodologies and processes to manage the entire lifecycle of software development, but traditional programming focuses primarily on the coding aspect, often without a structured approach to the broader software development lifecycle (Aitken & Ilango, 2013). 
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
